@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ekart.springbootjetty.sample.apis.util.ClassValueLookupMapTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-01-09T20:26:11" hostname="MT-C02G611MDRJJ.local" time="0.065">
+  <properties/>
+  <testcase name="shouldReturnValueWhenASuperClassMappingIsPresentForGet" classname="com.ekart.springbootjetty.sample.apis.util.ClassValueLookupMapTest" time="0.038"/>
+  <testcase name="shouldReturnValueWhenASuperClassMappingIsPresentForGetOrDefault" classname="com.ekart.springbootjetty.sample.apis.util.ClassValueLookupMapTest" time="0.001"/>
+  <testcase name="shouldReturnEmptyWhenMappingIsNotPresentForGet" classname="com.ekart.springbootjetty.sample.apis.util.ClassValueLookupMapTest" time="0.0"/>
+  <testcase name="shouldReturnValueWhenDirectMappingIsPresentForGetOrDefault" classname="com.ekart.springbootjetty.sample.apis.util.ClassValueLookupMapTest" time="0.0"/>
+  <testcase name="shouldRaiseExceptionIfNullKeyIsPassedToGet" classname="com.ekart.springbootjetty.sample.apis.util.ClassValueLookupMapTest" time="0.001"/>
+  <testcase name="shouldReturnValueWhenDirectMappingIsPresentForGet" classname="com.ekart.springbootjetty.sample.apis.util.ClassValueLookupMapTest" time="0.0"/>
+  <testcase name="shouldRaiseExceptionDuringCreationIfBackingMapIsNull" classname="com.ekart.springbootjetty.sample.apis.util.ClassValueLookupMapTest" time="0.001"/>
+  <testcase name="shouldReturnDefaultValueWhenMappingIsNotPresentForGetOrDefault" classname="com.ekart.springbootjetty.sample.apis.util.ClassValueLookupMapTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
